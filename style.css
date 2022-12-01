@@ -48,7 +48,93 @@ body{
     color: black;
 }
 
+/* end of nav styling */
+
+h1{
+    color: #76b900;
+    font-size: 30px;
+    font-weight: 400;
+}
+
 .main{
     display: grid;
     
+}
+
+/* boxes for grid */
+
+.box1{
+    background-color: white;
+    width: 225px;
+    box-shadow: 3px 3px 3px rgb(179, 179, 179);
+}
+
+.box1 img{
+    height: 125px;
+    width: 225px;
+}
+
+.box1 h5{
+    font-size: 16px;
+}
+
+.box1 p{
+    font-size: 14px;
+}
+
+.box2{
+    background-color: white;
+    width: 225px;
+    box-shadow: 3px 3px 3px rgb(179, 179, 179);
+}
+
+.box2 img{
+    height: 125px;
+    width: 225px;
+}
+
+.box2 h5{
+    font-size: 16px;
+}
+
+.box2 p{
+    font-size: 14px;
+}
+
+.box3{
+    background-color: white;
+    width: 225px;
+    box-shadow: 3px 3px 3px rgb(179, 179, 179);
+}
+
+.box3 img{
+    height: 125px;
+    width: 225px;
+}
+
+.box3 h5{
+    font-size: 16px;
+}
+
+.box3 p{
+    font-size: 14px;
+}
+
+.box4{
+    background-color: white;
+    width: 225px;
+    box-shadow: 3px 3px 3px rgb(179, 179, 179);
+}
+
+.box4 img{
+    height: 125px;
+    width: 225px;
+}
+
+.box4 h5{
+    font-size: 16px;
+}
+
+.box4 p{
+    font-size: 14px;
 }
