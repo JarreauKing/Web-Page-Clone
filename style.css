@@ -263,3 +263,44 @@ h1{
 }
 
 /* end of boxes for grid */
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid #76b900;
+    background: #313131;
+    text-align: center;
+}
+
+.footer p{
+    font-size: 13px;
+    color: white;
+    text-align: center;
+
+}
+
+.footer-link{
+    color: #76b900;
+    text-decoration: none;
+}
+
+.btn{
+    background: #76b900;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    width: 200px;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
