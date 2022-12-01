@@ -54,6 +54,7 @@ h1{
     color: #76b900;
     font-size: 30px;
     font-weight: 400;
+    text-align: center;
 }
 
 .main{
@@ -143,6 +144,90 @@ h1{
 }
 
 .box4 p{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.box5{
+    background-color: white;
+    width: 225px;
+    box-shadow: 3px 3px 3px rgb(179, 179, 179);
+}
+
+.box5 img{
+    height: 125px;
+    width: 225px;
+}
+
+.box5 h5{
+    font-size: 16px;
+    color: #76b900;
+}
+
+.box5 p{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.box6{
+    background-color: white;
+    width: 225px;
+    box-shadow: 3px 3px 3px rgb(179, 179, 179);
+}
+
+.box6 img{
+    height: 125px;
+    width: 225px;
+}
+
+.box6 h5{
+    font-size: 16px;
+    color: #76b900;
+}
+
+.box6 p{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.box7{
+    background-color: white;
+    width: 225px;
+    box-shadow: 3px 3px 3px rgb(179, 179, 179);
+}
+
+.box7 img{
+    height: 125px;
+    width: 225px;
+}
+
+.box7 h5{
+    font-size: 16px;
+    color: #76b900;
+}
+
+.box7 p{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.box8{
+    background-color: white;
+    width: 225px;
+    box-shadow: 3px 3px 3px rgb(179, 179, 179);
+}
+
+.box8 img{
+    height: 125px;
+    width: 225px;
+}
+
+.box8 h5{
+    font-size: 16px;
+    color: #76b900;
+}
+
+.box8 p{
     font-size: 14px;
     font-weight: bold;
 }
