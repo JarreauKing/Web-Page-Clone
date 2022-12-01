@@ -76,10 +76,12 @@ h1{
 
 .box1 h5{
     font-size: 16px;
+    color: #76b900;
 }
 
 .box1 p{
     font-size: 14px;
+    font-weight: bold;
 }
 
 .box2{
@@ -95,10 +97,12 @@ h1{
 
 .box2 h5{
     font-size: 16px;
+    color: #76b900;
 }
 
 .box2 p{
     font-size: 14px;
+    font-weight: bold;
 }
 
 .box3{
@@ -114,10 +118,12 @@ h1{
 
 .box3 h5{
     font-size: 16px;
+    color: #76b900;
 }
 
 .box3 p{
     font-size: 14px;
+    font-weight: bold;
 }
 
 .box4{
@@ -133,8 +139,10 @@ h1{
 
 .box4 h5{
     font-size: 16px;
+    color: #76b900;
 }
 
 .box4 p{
     font-size: 14px;
+    font-weight: bold;
 }
