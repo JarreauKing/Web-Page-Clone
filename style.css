@@ -58,176 +58,208 @@ h1{
 }
 
 .main{
-    display: grid;
-    
+    display: flex;
+    flex-direction: column;
 }
 
 /* boxes for grid */
 
+.container-top{
+    display: flex;
+    flex-direction: row;
+    gap: 1.2em;
+    justify-content: center;
+}
+
 .box1{
     background-color: white;
-    width: 225px;
+    width: 250px;
     box-shadow: 3px 3px 3px rgb(179, 179, 179);
 }
 
 .box1 img{
-    height: 125px;
-    width: 225px;
+    height: 130px;
+    width: 250px;
 }
 
 .box1 h5{
     font-size: 16px;
     color: #76b900;
+    margin: 10px;
 }
 
 .box1 p{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
+    margin: 10px;
 }
 
 .box2{
     background-color: white;
-    width: 225px;
+    width: 250px;
     box-shadow: 3px 3px 3px rgb(179, 179, 179);
 }
 
 .box2 img{
-    height: 125px;
-    width: 225px;
+    height: 130px;
+    width: 250px;
 }
 
 .box2 h5{
     font-size: 16px;
     color: #76b900;
+    margin: 10px;
 }
 
 .box2 p{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
+    margin: 10px;
 }
 
 .box3{
     background-color: white;
-    width: 225px;
+    width: 250px;
     box-shadow: 3px 3px 3px rgb(179, 179, 179);
 }
 
 .box3 img{
-    height: 125px;
-    width: 225px;
+    height: 130px;
+    width: 250px;
 }
 
 .box3 h5{
     font-size: 16px;
     color: #76b900;
+    margin: 10px;
 }
 
 .box3 p{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
+    margin: 10px;
 }
 
 .box4{
     background-color: white;
-    width: 225px;
+    width: 250px;
     box-shadow: 3px 3px 3px rgb(179, 179, 179);
 }
 
 .box4 img{
-    height: 125px;
-    width: 225px;
+    height: 130px;
+    width: 250px;
 }
 
 .box4 h5{
     font-size: 16px;
     color: #76b900;
+    margin: 10px;
 }
 
 .box4 p{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
+    margin: 10px;
+}
+
+.container-bottom{
+    display: flex;
+    flex-direction: row;
+    gap: 1.2em;
+    justify-content: center;
 }
 
 .box5{
     background-color: white;
-    width: 225px;
+    width: 250px;
     box-shadow: 3px 3px 3px rgb(179, 179, 179);
 }
 
 .box5 img{
-    height: 125px;
-    width: 225px;
+    height: 130px;
+    width: 250px;
 }
 
 .box5 h5{
     font-size: 16px;
     color: #76b900;
+    margin: 10px;
 }
 
 .box5 p{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
+    margin: 10px;
 }
 
 .box6{
     background-color: white;
-    width: 225px;
+    width: 250px;
     box-shadow: 3px 3px 3px rgb(179, 179, 179);
 }
 
 .box6 img{
-    height: 125px;
-    width: 225px;
+    height: 130px;
+    width: 250px;
 }
 
 .box6 h5{
     font-size: 16px;
     color: #76b900;
+    margin: 10px;
 }
 
 .box6 p{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
+    margin: 10px;
 }
 
 .box7{
     background-color: white;
-    width: 225px;
+    width: 250px;
     box-shadow: 3px 3px 3px rgb(179, 179, 179);
 }
 
 .box7 img{
-    height: 125px;
-    width: 225px;
+    height: 130px;
+    width: 250px;
 }
 
 .box7 h5{
     font-size: 16px;
     color: #76b900;
+    margin: 10px;
 }
 
 .box7 p{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
+    margin: 10px;
 }
 
 .box8{
     background-color: white;
-    width: 225px;
+    width: 250px;
     box-shadow: 3px 3px 3px rgb(179, 179, 179);
 }
 
 .box8 img{
-    height: 125px;
-    width: 225px;
+    height: 130px;
+    width: 250px;
 }
 
 .box8 h5{
     font-size: 16px;
     color: #76b900;
+    margin: 10px;
 }
 
 .box8 p{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
+    margin: 10px;
 }
+
+/* end of boxes for grid */
